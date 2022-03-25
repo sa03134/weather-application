@@ -1,6 +1,0 @@
-react native 학습
-
-react native 는 모바일에서도 react를 쓸 수 있게 한것.
-
-
-원래 javascript는 브라우저에서만 실행가능한 언어였는데 이걸 외부에서도 동작 하게 할 수 있게 만든게 nodeJS (그러면 그 외부라는게 어딘데??)
